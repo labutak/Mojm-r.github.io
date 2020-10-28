@@ -1,7 +1,14 @@
 .barva {
 border: solid  black 2px ;
-    
+width: 500px;
+margin: 0px;
+
 }
+
+.barva:hover {
+    background-color: yellow;
+  }
+
 
 
 
